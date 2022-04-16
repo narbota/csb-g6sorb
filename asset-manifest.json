@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://narbota.github.io/csb-g6sorb/static/css/main.5694a352.chunk.css",
+    "main.js": "https://narbota.github.io/csb-g6sorb/static/js/main.9c256b6e.chunk.js",
+    "main.js.map": "https://narbota.github.io/csb-g6sorb/static/js/main.9c256b6e.chunk.js.map",
+    "runtime-main.js": "https://narbota.github.io/csb-g6sorb/static/js/runtime-main.08df7361.js",
+    "runtime-main.js.map": "https://narbota.github.io/csb-g6sorb/static/js/runtime-main.08df7361.js.map",
+    "static/js/2.2924d21a.chunk.js": "https://narbota.github.io/csb-g6sorb/static/js/2.2924d21a.chunk.js",
+    "static/js/2.2924d21a.chunk.js.map": "https://narbota.github.io/csb-g6sorb/static/js/2.2924d21a.chunk.js.map",
+    "index.html": "https://narbota.github.io/csb-g6sorb/index.html",
+    "static/css/main.5694a352.chunk.css.map": "https://narbota.github.io/csb-g6sorb/static/css/main.5694a352.chunk.css.map",
+    "static/js/2.2924d21a.chunk.js.LICENSE.txt": "https://narbota.github.io/csb-g6sorb/static/js/2.2924d21a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08df7361.js",
+    "static/js/2.2924d21a.chunk.js",
+    "static/css/main.5694a352.chunk.css",
+    "static/js/main.9c256b6e.chunk.js"
+  ]
+}
